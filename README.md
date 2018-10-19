@@ -10,5 +10,5 @@ In this project, we will be storing the names and prices of a furniture store's 
 The dataset came from FiveThirtyEight, and can be found here. The dataset is stored in the guns.csv file. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality. The columns contain demographic and other information about the victim. Here are the first few rows of the dataset:
 
 # Third Project
-# USING PYTHON FUNCTIONS
+## USING PYTHON FUNCTIONS
 Task You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties
